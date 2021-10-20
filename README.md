@@ -12,10 +12,10 @@ The purpose of this project is to gather data about temperature trends for the m
      |Fig 1. Temperature statistics for the month of June|
 
     The following observations were made from temperature statistics for the month of June
-     - The average temperature is 74.94
-     - The minimum temperature is  64.00
-     - The maximum temperature is 85.00
-     - 1700 data points has been studied for the above statistics
+     - The average temperature is 74.94.
+     - The minimum temperature is  64.00.
+     - The maximum temperature is 85.00.
+     - 1700 data points has been studied for the above statistics.
     
     
  - **Analysis for the month of December**
@@ -27,10 +27,10 @@ The purpose of this project is to gather data about temperature trends for the m
     |Fig 2. Temperature statistics fro the month of December| 
 
     The following observations were made from the December statistics.
-      - The average temperature is 71.04
-      - The minimum temperature is  56.00
-      - The maximum temperature is 83.00
-      - 1517 data points has been studied for the above statistics
+      - The average temperature is 71.04.
+      - The minimum temperature is  56.00.
+      - The maximum temperature is 83.00.
+      - 1517 data points has been studied for the above statistics.
 
 ## Summary
 It is evident from the above results that the average temperature is in 70's during the month of June and December. The maximum temperature of both the months are in the 80's. Based on the above anlaysis we can say that Surf and Ice Cream business is sustainable in Oahu year around.
