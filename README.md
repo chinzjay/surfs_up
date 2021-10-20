@@ -3,10 +3,9 @@
 ## Overview
 The purpose of this project is to gather data about temperature trends for the months of June and December in Oahu, to determine if the Surf and Ice Cream business is sustainable year-round.
 ## Results
- - **Analysis for the month of June**
- 
-     The temperatures for the month of June was filtered and converted to a list. A DataFrame was then created from the list of filtered temperature data. The summary statistics      was then generated for the June temperature DataFrame *(Fig 1)*.
+The temperatures for the month of June and December were filtered and converted to a list. A dataframe was then created from the list of filtered temperature data. The summary statistics was then generated for the month of June *(Fig 1)* and December *(Fig 2)*.
 
+ - **Analysis for the month of June**
      ![june_temp_statistics](https://github.com/chinzjay/surfs_up/blob/main/june_temp_statistics.PNG)
      |:--:|
      |Fig 1. Temperature statistics for the month of June|
@@ -19,9 +18,6 @@ The purpose of this project is to gather data about temperature trends for the m
     
     
  - **Analysis for the month of December**
- 
-    A dataframe was created from the list of temperature data for the month of December. The summary statistics was then generated for the December temperatures DataFrame *(Fig     2)*.
-
     ![dec_temp_statistics](https://github.com/chinzjay/surfs_up/blob/main/dec_temp_statistics.PNG)
     |:--:|
     |Fig 2. Temperature statistics for the month of December| 
@@ -31,6 +27,11 @@ The purpose of this project is to gather data about temperature trends for the m
       - The minimum temperature is  56.00.
       - The maximum temperature is 83.00.
       - 1517 data points has been studied for the above statistics.
+      
+ Comparing both the analysis, we can see that
+ - The minimum temperature for the month of December is around 10 degrees lesser than June.
+ - The average temperature in December is 4 degrees lesser than in June.
+ - The temperature in 25th percentile is 4 degrees lesser in December compared to June.
 
 ## Summary
 It is evident from the above results that the average temperature is in 70's during the month of June and December. The maximum temperature of both the months are in the 80's. Based on the above anlaysis we can say that Surf and Ice Cream business is sustainable in Oahu year around.
