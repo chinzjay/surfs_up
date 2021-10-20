@@ -24,7 +24,7 @@ The purpose of this project is to gather data about temperature trends for the m
 
     ![dec_temp_statistics](https://github.com/chinzjay/surfs_up/blob/main/dec_temp_statistics.PNG)
     |:--:|
-    |Fig 2. Temperature statistics fro the month of December| 
+    |Fig 2. Temperature statistics for the month of December| 
 
     The following observations were made from the December statistics.
       - The average temperature is 71.04.
