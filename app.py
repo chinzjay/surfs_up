@@ -24,7 +24,7 @@ app = Flask(__name__)
 @app.route("/")
 def welcome():
     return(
-    '''
+    f'''
     Welcome to the Climate Analysis API!
     Available Routes:
     /api/v1.0/precipitation
@@ -32,6 +32,7 @@ def welcome():
     /api/v1.0/tobs
     /api/v1.0/temp/start/end
     ''')
+
 
 #Precipitation route
 @app.route("/api/v1.0/precipitation")
